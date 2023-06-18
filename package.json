@@ -1,0 +1,12 @@
+{
+  "name": "sprachraum",
+  "version": "1.0.0",
+  "description": "One API to Translate All Languages",
+  "main": "index.js",
+  "repository": "https://github.com/anaclumos/sprachraum",
+  "author": "Sunghyun Cho",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
